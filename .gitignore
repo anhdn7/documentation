@@ -3,3 +3,6 @@
 ################################################################################
 
 /Documentation/.vs/Documentation
+/.vs/slnx.sqlite
+/Documentation/Documentation.vcxproj
+/Documentation/Documentation.vcxproj.filters
