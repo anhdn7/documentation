@@ -1,0 +1,2 @@
+﻿1. Cung cấp các loại dữ liệu atomic như std::atomic<T>, cho phép thực hiện các thao tác như fetch_add, fetch_sub, exchange, compare_exchange_weak/strong một cách an toàn và không bị gián đoạn.
+2. Đảm bảo rằng các thao tác trên các biến atomic sẽ được thực hiện một cách nguyên tử, không bị can thiệp bởi các luồng khác.

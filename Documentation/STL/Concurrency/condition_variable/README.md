@@ -1,0 +1,2 @@
+﻿1. Là một công cụ đồng bộ hóa cho phép một hoặc nhiều luồng chờ đợi một điều kiện nhất định trước khi tiếp tục thực hiện.
+2. Được sử dụng kết hợp với mutex để đảm bảo tính chính xác và an toàn của việc đồng bộ hóa.
