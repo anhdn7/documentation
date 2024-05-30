@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Documentation",
+    "\\Documentation\\STL",
+    "\\Documentation\\STL\\Advance",
+    "\\Documentation\\STL\\Concurrency\\atomic",
+    "\\Documentation\\STL\\Concurrency\\condition_variable",
+    "\\Documentation\\STL\\Concurrency\\future_promise",
+    "\\Documentation\\STL\\Concurrency\\thread",
+    "\\Documentation\\STL\\Containers",
+    "\\Documentation\\STL\\Containers\\adaptors"
   ],
-  "SelectedNode": "\\Source1.cpp",
+  "SelectedNode": "\\Documentation\\STL\\Containers\\adaptors\\stack.cpp",
   "PreviewInSolutionExplorer": false
 }

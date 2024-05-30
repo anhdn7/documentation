@@ -6,3 +6,5 @@
 /.vs/slnx.sqlite
 /Documentation/Documentation.vcxproj
 /Documentation/Documentation.vcxproj.filters
+/Documentation/Documentation.vcxproj.user
+/Documentation/Documentation.sln
